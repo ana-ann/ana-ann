@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hi, I'm Angelika! <br/> Software Engineer
+
+##  👨‍💻 Python Projects
+
+- __Doorbell__<br/>  - [Video Doorbell using Raspberry Pi](https://github.com/ana-ann/doorbell)
+
+
+## 🤳 Connect with me:
+
+[<img align="left" alt="AngelikaLudzik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AngelikaLudzik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[twitter]: https://twitter.com/ana-ann
+[linkedin]: linkedin.com/in/angelikaludzik
 
 <!--
 **ana-ann/ana-ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
